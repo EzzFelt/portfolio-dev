@@ -1,0 +1,67 @@
+
+[
+  {
+    "id": 1,
+    "title": "Code Runner",
+    "description": "Code runner foi o meu projeto TCC realizado no ultimo ano do meu ensino médio integrado a ADS. Uma plataforma onde tem desafios de programação, na qual o usuário pode resolvê-los e ver o resultado em tempo real.",
+    "technologies": ["react", "nextjs", "mongodb", "docker", "git", "css3", "javascript"],
+    "repositoryUrl": "https://github.com/EzzFelt/Code-Runner",
+    "liveUrl": "https://github.com/EzzFelt/Code-Runner",
+    "images": [
+      "/images/coderunner_1.png",
+      "/images/coderunner_2.png",
+      "/images/coderunner_3.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Controle de estoque Dashboard",
+    "description": "Um dashboard para controle de estoque, onde o usuário pode adicionar, remover e visualizar produtos em estoque.",
+    "technologies": ["html", "css3", "javascript", "react"],
+    "repositoryUrl": "https://github.com/EzzFelt/dashboard-stock",
+    "liveUrl": "https://github.com/EzzFelt/dashboard-stock",
+    "images": [
+      "/images/dashboard_stock1.png",
+      "/images/dashboard_stock2.png",
+      "/images/dashboard_stock3.png",
+      "/images/dashboard_stock4.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "React Kanban",
+    "description": "Um aplicativo de quadro Kanban desenvolvido com React, onde o usuário possui tarefas de baixa, média e alta prioridade.",
+    "technologies": ["react", "css3", "javascript", "git"],
+    "repositoryUrl": "https://github.com/EzzFelt/react-kanban",
+    "liveUrl": "https://github.com/EzzFelt/react-kanban",
+    "images": [
+      "/images/kanban_1.png",
+      "/images/kanban_2.png",
+      "/images/kanban_3.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Finanças Pessoais",
+    "description": "Um aplicativo simples para gerenciar finanças pessoais, permitindo que o usuário adicione receitas e despesas.",
+    "technologies": ["html", "css3", "javascript"],
+    "repositoryUrl": "https://github.com/EzzFelt/Personal-Finances",
+    "liveUrl": "https://github.com/EzzFelt/Personal-Finances",
+    "images": [
+      "/images/personal_finances_1.png"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Calculadora",
+    "description": "Uma calculadora simples desenvolvida com Javascript.",
+    "technologies": ["HTML", "javascript", "css3"],
+    "repositoryUrl": "https://github.com/EzzFelt/calculator-js",
+    "liveUrl": "https://github.com/EzzFelt/calculator-js",
+    "images": [
+      "/images/calculator_1.png",
+      "/images/calculator_2.png"
+    ]
+  }
+  
+]

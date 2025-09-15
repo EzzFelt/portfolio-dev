@@ -1,0 +1,116 @@
+
+{
+    "projects_github": [
+        {
+    "id": 1,
+    "title": "Code Runner",
+    "description": "Code runner was my final project carried out in the last year of my high school integrated with software development. A platform where there are programming challenges, in which the user can solve them and see the result in real time.",
+    "technologies": ["react", "nextjs", "mongodb", "docker", "git", "css3", "javascript"],
+    "repositoryUrl": "https://github.com/EzzFelt/Code-Runner",
+    "liveUrl": "https://github.com/EzzFelt/Code-Runner",
+    "images": [
+      "/images/coderunner_1.png",
+      "/images/coderunner_2.png",
+      "/images/coderunner_3.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Dashboard - Stock Control",
+    "description": "A dashboard for stock control, where the user can add, remove, and view products in stock.",
+    "technologies": ["html", "css3", "javascript", "react"],
+    "repositoryUrl": "https://github.com/EzzFelt/dashboard-stock",
+    "liveUrl": "https://github.com/EzzFelt/dashboard-stock",
+    "images": [
+      "/images/dashboard_stock1.png",
+      "/images/dashboard_stock2.png",
+      "/images/dashboard_stock3.png",
+      "/images/dashboard_stock4.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "React Kanban",
+    "description": "An application of Kanban board developed with React, where the user has tasks of low, medium, and high priority.",
+    "technologies": ["react", "css3", "javascript", "git"],
+    "repositoryUrl": "https://github.com/EzzFelt/react-kanban",
+    "liveUrl": "https://github.com/EzzFelt/react-kanban",
+    "images": [
+      "/images/kanban_1.png",
+      "/images/kanban_2.png",
+      "/images/kanban_3.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Personal Finances",
+    "description": "An application to manage personal finances, allowing the user to add income and expenses.",
+    "technologies": ["html", "css3", "javascript"],
+    "repositoryUrl": "https://github.com/EzzFelt/Personal-Finances",
+    "liveUrl": "https://github.com/EzzFelt/Personal-Finances",
+    "images": [
+      "/images/personal_finances_1.png"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Calculator",
+    "description": "A simple calculator developed with Javascript.",
+    "technologies": ["HTML", "javascript", "css3"],
+    "repositoryUrl": "https://github.com/EzzFelt/calculator-js",
+    "liveUrl": "https://github.com/EzzFelt/calculator-js",
+    "images": [
+      "/images/calculator_1.png",
+      "/images/calculator_2.png"
+    ]
+  }
+],
+    "greetings": "Hello, my name is Enzo Feltrin! I plan and develop web and back-end applications",
+    "greetings_short": "I am a fullstack developer. I like to think of good ideas and turn them into code",
+    "subtitle_1": "Best Projects",
+    "subtitle_2": "About Me",
+    "subtitle_3": "Skills",
+    "subtitle_4": "Interested in my work? Get in touch!",
+    "name": "Name",
+    "description": "Description",
+    "technologies": "Technologies",
+    "view_project": "View project on github",
+
+    "curriculum": "Curriculum",
+    "about_me_text": "I'm a developer who always look for building apps that add value to people's lives by solving everyday problems, always writing clean, scalable, and readable code.",
+    "my_stack": "My main stack for front-end development consists of React, Javascript, Typescript, and NextUI. I also have knowledge in API development and containerization, as well as in relational and non-relational databases.",
+    "call_me": "Found my portfolio interesting? Let's schedule a call to discuss projects and ideas in our careers!",
+    "send_email": "Send an email",
+    "contact-me": "Contact Me!",
+    "your_email": "Your e-mail",
+    "message": "Message",
+    "message_form": "Write your message",
+    "send": "Send",
+    "thanks": "Thanks for seeing my Portfolio!",
+
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "experience": "Experience",
+    "contact": "Contact",
+    "freelance": "AVAILABLE FOR FREELANCE!",
+    "made_with_heart": "Made with ❤️ by Enzo Feltrin",
+    "a_little_information": "Here is a little information about me!",
+    "about_me": "My name is Enzo Feltrin, I am currently 18 years old and I study Analysis and Development of Systems at Fatec Americana. Since a very young age I became interested in computers, and this led me to become a fullstack developer. My passion is to help the everyday life of other people with my knowledge in technology, such as developing interactive interfaces and robust and scalable systems.",
+    "look_my_experience": "See my experience",
+    "subtitle_projects": "Some of my recent projects",
+    "others": "Others",
+    "academic": "Academic",
+    "professional": "Professional",
+
+    "academic_title_1": "High school with a technical course in Software development",
+    "academic_title_2": "Higher education in Analysis and Software development",
+    "academic_description_1": "I completed my high school at Etec Polivalente de Americana, and in addition to high school, I had an integrated course in Analysis and Software development, in partnership with the multinational company IBM.",
+    "academic_description_2": "Currently pursuing a degree in ADS at Fatec Americana, this opportunity was given to me through school projects that accounted for hours for IBM. Upon completing 200 hours, students enter Fatec.",
+
+    "professional_title_1": "Realize Buffet - Waiter",
+    "professional_title_2": "Freelance with websites",
+    "professional_description_1": "I worked as a waiter in a buffet, which greatly enhanced my communication, networking, and other soft skills. It was a valuable experience for interacting with the public and resolving situations.",
+    "professional_description_2": "I did simple freelances, focusing on how web sales work. I also gained experience with calculations and delivering services according to the client's briefing."
+}
+    

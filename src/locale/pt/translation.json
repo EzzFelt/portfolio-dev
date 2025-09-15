@@ -1,0 +1,117 @@
+{
+    "projects_github": [
+        {
+             "id": 1,
+    "title": "Code Runner",
+    "description": "Code runner foi o meu projeto TCC realizado no ultimo ano do meu ensino médio integrado a ADS. Uma plataforma onde tem desafios de programação, na qual o usuário pode resolvê-los e ver o resultado em tempo real.",
+    "technologies": ["react", "nextjs", "mongodb", "docker", "git", "css3", "javascript"],
+    "repositoryUrl": "https://github.com/EzzFelt/Code-Runner",
+    "liveUrl": "https://github.com/EzzFelt/Code-Runner",
+    "images": [
+      "/images/coderunner_1.png",
+      "/images/coderunner_2.png",
+      "/images/coderunner_3.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Controle de estoque Dashboard",
+    "description": "Um dashboard para controle de estoque, onde o usuário pode adicionar, remover e visualizar produtos em estoque.",
+    "technologies": ["html", "css3", "javascript", "react"],
+    "repositoryUrl": "https://github.com/EzzFelt/dashboard-stock",
+    "liveUrl": "https://github.com/EzzFelt/dashboard-stock",
+    "images": [
+      "/images/dashboard_stock1.png",
+      "/images/dashboard_stock2.png",
+      "/images/dashboard_stock3.png",
+      "/images/dashboard_stock4.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "React Kanban",
+    "description": "Um aplicativo de quadro Kanban desenvolvido com React, onde o usuário possui tarefas de baixa, média e alta prioridade.",
+    "technologies": ["react", "css3", "javascript", "git"],
+    "repositoryUrl": "https://github.com/EzzFelt/react-kanban",
+    "liveUrl": "https://github.com/EzzFelt/react-kanban",
+    "images": [
+      "/images/kanban_1.png",
+      "/images/kanban_2.png",
+      "/images/kanban_3.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Finanças Pessoais",
+    "description": "Um aplicativo simples para gerenciar finanças pessoais, permitindo que o usuário adicione receitas e despesas.",
+    "technologies": ["html", "css3", "javascript"],
+    "repositoryUrl": "https://github.com/EzzFelt/Personal-Finances",
+    "liveUrl": "https://github.com/EzzFelt/Personal-Finances",
+    "images": [
+      "/images/personal_finances_1.png"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Calculadora",
+    "description": "Uma calculadora simples desenvolvida com Javascript.",
+    "technologies": ["HTML", "javascript", "css3"],
+    "repositoryUrl": "https://github.com/EzzFelt/calculator-js",
+    "liveUrl": "https://github.com/EzzFelt/calculator-js",
+    "images": [
+      "/images/calculator_1.png",
+      "/images/calculator_2.png"
+    ]
+  }
+],
+
+    "greetings": "Olá, me chamo Enzo Feltrin! Eu planejo e desenvolvo aplicações web e Back-end",
+    "greetings_short": "Sou um desenvolvedor fullstack. Gosto de pensar em boas ideias e transformá-las em código",
+    "subtitle_1": "Melhores Projetos",
+    "subtitle_2": "Sobre mim",
+    "subtitle_3": "Habilidades",
+    "subtitle_4": "Ficou interessado no meu trabalho? Entre em contato!",
+    "name": "Nome",
+
+    "curriculum": "Currículo",
+    "about_me_text": "Sou um desenvolvedor que procura sempre construir aplicações que agreguem na vida das pessoas que têm problemas no cotidiano, sempre escrevendo código legível, escalável e limpo.",
+    "my_stack": "Minha stack principal para o front-end consiste em React, Javascript, Typescript e NextUI. Também possuo conhecimento em desenvolvimento de APIs e containerização, além do conhecimento em bancos de dados relacionais e não relacionais.",
+    "call_me": "Achou interessante meu portfólio? Vamos marcar uma chamada para conhecermos projetos e ideias em nossas carreiras!",
+    "send_email": "Envie um e-mail",
+    "contact-me": "Me contate!",
+    "your_email": "Seu e-mail",
+    "message": "Mensagem",
+    "message_form": "Escreva a sua mensagem",
+    "send": "Enviar",
+    "thanks": "Obrigado por ter visto meu Portfólio!",
+    "description": "Descrição",
+    "technologies": "Tecnologias",
+    "view_project": "Ver projeto no github",
+
+    "about": "Sobre",
+    "projects": "Projetos",
+    "skills": "Habilidades",
+    "experience": "Experiência",
+    "contact": "Contato",
+    "freelance": "DISPONÍVEL PARA FREELANCE!",
+    "made_with_heart": "Feito com ❤️ por Enzo Feltrin",
+    "a_little_information": "Aqui vai um pouco sobre mim!",
+    "about_me": "Meu nome é Enzo Feltrin, tenho 18 anos atualmente e curso Análise e Desenvolvimento de Sistemas na Fatec Americana. Desde muito jovem me interessei por computadores, e isso me levou a me tornar um desenvolvedor fullstack. Minha paixão é ajudar a vida cotidiana de outras pessoas com meus conhecimentos em tecnologia, como desenvolvimento de interfaces interativas e sistemas robustos e escaláveis.",
+    "look_my_experience": "Veja minha experiência",
+    "subtitle_projects": "Alguns dos meus projetos recentes",
+    "others": "Outros",
+    "academic": "Acadêmica",
+    "professional": "Profissional",
+
+
+    "academic_title_1": "Ensino médio com técnico de Desenvolvimento de Sistemas",
+    "academic_title_2": "Curso superior em Análise de Desenvolvimento de Sistemas",
+    "academic_description_1": "Realizei meu ensino médio na Etec Polivalente de Americana além do ensino médio tive um curso integrado em Análise de Desenvolvimento de Sistemas, neste curso também tivemos parceria com a empresa multinacional IBM.",
+    "academic_description_2": "Atualmente cursando superior em ADS na Fatec Americana, está oportunidade me foi dada através de trabalhos escolares que contabilizavam horas para a IBM. Ao completar 200 horas os alunos ingressam na Fatec.",
+
+    "professional_title_1": "Realize Buffet - Garçom",
+    "professional_title_2": "Freelance com websites",
+    "professional_description_1": "Trabalhei como garçom em um buffet, que agregou muito para minha comunicação, networking entre outras softskills. Foi uma experiência valiosa para o contato com o público e resolução de situações.",
+    "professional_description_2": "Realizei freelances simples, com foco em como funcionam vendas na web. Também adquiri experiência com cálculos e entrega de serviço conforme o briefing do cliente."
+}
+
