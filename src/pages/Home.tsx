@@ -59,7 +59,7 @@ export const Home = () => {
             className="shrink-0 -translate-y-1 mx-auto md:ml-5 md:mr-5 md:-translate-y-7">
             <div className="w-40 h-40 mt-10 sm:w-55 sm:h-55 md:w-45 md:h-45 lg:w-56 lg:h-56 xl:w-54 xl:h-54 rounded-full overflow-hidden">
               <img 
-                src="/foto_enzo.jpg" 
+                src="/foto_pessoal.jpg" 
                 alt="Enzo Feltrini" 
                 className="w-full h-full object-cover"
               />
