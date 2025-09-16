@@ -26,7 +26,7 @@ export const Home = () => {
   return (
     <div className="min-h-screen min-w-130 xl:w-full bg-white">
       <section className="py-20 px-1 sm:w-full"> 
-        <div className="mx-auto flex justify-between flex-column flex-wrap items-center text-center md:text-start md:flex-nowrap md:justify-evenly lg:w-200 xl:w-300">
+        <div className="ml-10 mx-auto flex justify-between flex-column flex-wrap items-center text-center md:text-start md:flex-nowrap md:justify-evenly lg:w-200 xl:w-300">
           
           {/* Texto compacto com largura limitada */}
           <div className="max-w-[600px] mr-6">
@@ -35,7 +35,7 @@ export const Home = () => {
              whileInView={{ opacity: 1, y: 0 }} 
              transition={{ duration: 0.8, ease: "easeOut" }}
              viewport={{ once: true }}
-            className=" sm:text-2xl md:text-2xl md:w-120 lg:text-3xl font-extrabold text-gray-900 leading-tight mb-2"
+            className="sm:text-2xl md:text-2xl md:w-120 lg:text-3xl font-extrabold text-gray-900 leading-tight mb-2"
             >
               {t('greetings')}
             </motion.h1>

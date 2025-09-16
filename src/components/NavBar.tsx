@@ -19,7 +19,7 @@ export const NavBar = () => {
     return(
         <>
           <div className="flex justify-between items-center ml-1 mr-2 mt-5 sm:ml-7 sm:mr-10 md:justify-evenly xl:justify-evenly 2xl:w-500 2xl:mx-auto" >
-            <Link to="/"><img src="public/enzo_font.jpg" alt="Enzo Font" className="rounded-full w-25 h-10 sm:w-30 md:w-30 lg:w-30" /></Link>
+            <Link to="/"><img src="/enzo_font.jpg" alt="Enzo Font" className="rounded-full w-25 h-10 sm:w-30 md:w-30 lg:w-30" /></Link>
             <Freelance />
            <img
              onClick={toggleLang}

@@ -15,7 +15,7 @@ export const About = () => {
                     transition={{ duration: 0.8, ease: "easeOut" }}
                     viewport={{ once: true }}
                     className="max-w-3xl mx-auto text-center mt-15 mb-25">
-                    <h2 className="text-3xl font-bold text-gray-900 mb-6">
+                    <h2 className="text-3xl ml-5 mr-5 font-bold text-gray-900 mb-6">
                         {t("a_little_information")}
                     </h2>
                     <p className="text-gray-700 text-base leading-relaxed mb-10 mr-10 ml-10">
