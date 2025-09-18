@@ -121,7 +121,7 @@ export const Home = () => {
           </p>
           
           <a
-          href="/Curriculo_Enzo.pdf"
+          href="/Curriculo_Enzo_Fullstack.pdf"
           download="Curriculo_FullStack_Enzo"
           className="bg-gray-900 hover:bg-black text-white px-6 py-3 rounded-lg transition-colors cursor-pointer font-bold">
             {t("curriculum")}
